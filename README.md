@@ -1,5 +1,6 @@
 # mySQL-_stepProject
-SQL Queries for study project
+SQL DATABASE CREATION AND QUERIES (study project)
+![sql logo](image.webp)
 
 ---
 
